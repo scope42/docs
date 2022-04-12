@@ -1,4 +1,5 @@
-# Website
+# scope42 Documentation
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91de80d2-c8c5-4d49-a91a-7c2b6c3e9018/deploy-status)](https://app.netlify.com/sites/scope42-docs/deploys)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
