@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/scope42/scope42/tree/main/',
+          editUrl: 'https://github.com/scope42/docs/tree/main/',
         },
         blog: false,
         theme: {
