@@ -38,6 +38,18 @@ A note[^1]
 * [x] done
 ```
 
+## Syntax Highlighting
+
+To enable syntax highlighting for code blocks, you need to specify the language. Example:
+
+~~~
+```javascript
+console.log("Hello World")
+```
+~~~
+
+[List of supported languages](https://lucidar.me/en/web-dev/list-of-supported-languages-by-prism/)
+
 ## Item Links
 
 There is a custom directive for linking to scope42 item. For example, if you want to reference `issue-42`:
