@@ -52,7 +52,7 @@ console.log("Hello World")
 
 ## Item Links
 
-There is a custom directive for linking to scope42 item. For example, if you want to reference `issue-42`:
+There is a custom directive for linking to scope42 items. For example, if you want to reference `issue-42`:
 
 ```md
 In order to resolve :link{#issue-42}, we need to...
